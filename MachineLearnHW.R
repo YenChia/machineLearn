@@ -42,8 +42,8 @@ dfTrain <- null_to_zero(dfTrain, null_col)
 
 classChange <- function(x, cols) {
   for (i in 1:length(cols)) {
-    x[is.na(x[,cols[i]]), cols[i]] <- 0
     x[!is.na(x[,cols[i]]), cols[i]] <- 1
+    x[is.na(x[,cols[i]]), cols[i]] <- 0
   }
   return(x)
 }
