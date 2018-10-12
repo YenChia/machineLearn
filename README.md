@@ -2,7 +2,7 @@
 10/11 資料清洗段落
 
 # 空值欄位狀況
-LotFrontage:Linear feet of street connected to property             街道連到屋子的距離/缺值259個
+LotFrontage:Linear feet of street connected to property\t街道連到屋子的距離/缺值259個\n
 Alley:Type of alley access to property                              連接小巷的路況/缺值1369個(NA是沒巷子)
 MasVnrType:Masonry veneer type                                      牆面類型/類別型/缺值獨立類別/缺值8個(用演算法補)
 MasVnrArea:Masonry veneer area in square feet                       牆面積/缺值8個(用演算法補)
