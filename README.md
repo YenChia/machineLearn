@@ -25,5 +25,4 @@
 
 
 # 2018/10/26
-終於找到XGBoosting Regression的使用方法。丟上kaggle.com，得分0.14497，暫時排名2523
-可以繼續做特徵選取與PCA降維
+終於找到XGBoosting Regression的使用方法。丟上kaggle.com，得分0.14497，暫時排名2523。可以繼續做特徵選取與PCA降維
