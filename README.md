@@ -22,3 +22,8 @@
 * PoolQC:Pool:quality                                                 泳池質量/缺值1453個
 * Fence:Fence:quality                                                 圍欄質量/缺值1179個
 * MiscFeature:Miscellaneous feature not covered in other categories   雜項功能/缺值1406個
+
+
+# 2018/10/26
+終於找到XGBoosting Regression的使用方法。丟上kaggle.com，得分0.14497，暫時排名2523
+可以繼續做特徵選取與PCA降維
